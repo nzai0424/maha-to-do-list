@@ -5,7 +5,7 @@
   padding: 0;
   background: linear-gradient(to right, #ece9e6, #ffffff);
   transition: background 0.3s, color 0.3s;
-  background: url(/images/pink-powder-pastel-with-hand-drawn-flowers-background_52683-41001.avif);
+  background: url(images/pink-powder-pastel-with-hand-drawn-flowers-background_52683-41001.avif);
     background-size: cover;
     background-position: center;
 }
